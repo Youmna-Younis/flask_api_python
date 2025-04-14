@@ -1,4 +1,9 @@
 # **Model Deployment as API | The Iris Dataset**
+### **Streamlit App Interface**
+![Streamlit App](imgs/img1.png)
+
+![Streamlit App](imgs/img2.png)
+
 
 Deploying a Machine Learning Model as a REST API with Flask
 
@@ -216,14 +221,8 @@ The Streamlit app provides an interactive UI for users to input feature values a
 ---
 
 
-### **Streamlit App Interface**
-![Streamlit App](imgs/img1.png)
 
-![Streamlit App](imgs/img2.png)
 
-*Replace this placeholder with an actual screenshot of the Streamlit app.*
-
----
 
 ## **Deployment**
 
